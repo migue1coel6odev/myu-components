@@ -3,5 +3,5 @@
 module.exports = navbar;
 
 function navbar() {
-  console.log("test7");
+  console.log("test");
 }

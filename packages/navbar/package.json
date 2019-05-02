@@ -1,6 +1,6 @@
 {
   "name": "navbar",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "> TODO: description",
   "author": "migue1coel6odev <miguelcoelhodev@gmail.com>",
   "homepage": "https://github.com/migue1coel6odev/myu-components#readme",
@@ -22,6 +22,5 @@
   },
   "bugs": {
     "url": "https://github.com/migue1coel6odev/myu-components/issues"
-  },
-  "gitHead": "041d605306edcaf5d08818ae5ccacf128cc99f12"
+  }
 }
