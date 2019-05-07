@@ -3,7 +3,7 @@
   "scripts": {
     "lerna:publish": "lerna publish"
   },
-  "private": true,
+  "private": false,
   "workspaces": [
     "packages/*"
   ],
